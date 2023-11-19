@@ -2,5 +2,6 @@
     "python.analysis.typeCheckingMode": "basic",
     "githubPullRequests.ignoredPullRequestBranches": [
         "main"
-    ]
+    ],
+    "python.analysis.autoImportCompletions": true
 }
