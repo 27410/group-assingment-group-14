@@ -1,7 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=12060741&assignment_repo_type=AssignmentRepo)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/27410/[PUT-YOUR-REPOSITORY-HERE]/main)
 
-# 27410 - Group assignment - Group 14 - [TITLE]
+# 27410 - Group assignment - Group 14 - [Optimising L-aspartate production in _E. coli_]
 
 > Dear students, thank you for accepting the group assignment. Please fill in the
 > requested information below and above ([Group Number] and [TITLE]) and remove this quoted part before submission (everything prepended with a >).
@@ -16,5 +16,23 @@
 Describe the overall aim of your project and what you have achieved.
 
 ## Project overview
-Describe how your project is organized ...
+The report for this project is presented in the file [Report.ipynb](https://github.com/27410/group-assingment-group-14/blob/main/Report.ipynb) The code used to complete ti can be found on github and appears in the following order:
+
+[0. Memote](https://github.com/27410/group-assingment-group-14/blob/main/0.%20Memote.ipynb)
+
+[1. Objective function](https://github.com/27410/group-assingment-group-14/blob/main/1_Objective_function.ipynb)
+
+[2. Theoretical yield](https://github.com/27410/group-assingment-group-14/blob/main/2_Theoretical_yield.ipynb)
+
+[3. E. coli gene KOs](https://github.com/27410/group-assingment-group-14/blob/main/3_E.%20coli_gene_Kos.ipynb)
+
+[4. AspC overexpression](https://github.com/27410/group-assingment-group-14/blob/main/4._AspC_overexpression.ipynb)
+
+[5. Insertion of a more active AspC](https://github.com/27410/group-assingment-group-14/blob/main/5_AspC_higher_Kcat.ipynb)
+
+[6. PPPA](https://github.com/27410/group-assingment-group-14/blob/main/6_PPPA.ipynb)
+
+[7. Cofactor swapping](https://github.com/27410/group-assingment-group-14/blob/main/7_Cofactor_swapping.ipynb)
+
+
 
