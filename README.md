@@ -32,13 +32,11 @@ The report for this project is presented in the file [Report.ipynb](https://gith
 
 [8. DFBA](https://github.com/27410/group-assingment-group-14/blob/main/8_DFBA.ipynb)
 
-[9. DFBA aspartate](https://github.com/27410/group-assingment-group-14/blob/main/9_DFBA_asp.ipynb)
+[9. PPA maltose](https://github.com/27410/group-assingment-group-14/blob/main/10_PPPA_maltose.ipynb)
 
-[10. PPA maltose](https://github.com/27410/group-assingment-group-14/blob/main/10_PPPA_maltose.ipynb)
+[10. PPA maltohexaose](https://github.com/27410/group-assingment-group-14/blob/main/11_PPPA_maltotrexaose.ipynb)
 
-[11. PPA maltohexaose](https://github.com/27410/group-assingment-group-14/blob/main/11_PPPA_maltotrexaose.ipynb)
-
-[12. PPA maltotriose](https://github.com/27410/group-assingment-group-14/blob/main/12_PPPA_maltotriose.ipynb)
+[11. PPA maltotriose](https://github.com/27410/group-assingment-group-14/blob/main/12_PPPA_maltotriose.ipynb)
 
 
 
