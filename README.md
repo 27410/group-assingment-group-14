@@ -8,11 +8,8 @@ Our repository is [group-assingment-group-14](https://github.com/27410/group-ass
 
 ## Project summary (<300 words)
 
-The aim of this project was to explore the optimisation of L-aspartate production in _E. coli_ using computational methods. To achieve this we first assessed the quality of two different GSM models using Memote. Using the highest quality model we then explored different strategies for optimising L-aspartate production, including testing different gene knockouts, overexpression targets, mimicking the insertion of a more active AspC, changing the substrate and finally, trying different cofactors. 
+The aim of this project was to explore the optimisation of L-aspartate production in _E. coli_ using computational methods. To achieve this we first assessed the quality of two different GSM models using Memote. Using the highest quality model we then explored different strategies for optimising L-aspartate production, including testing different gene knockouts, overexpression targets, mimicking the insertion of a more active AspC, changing the substrate and finally, trying different cofactors. We have found that maltose, maltohexaose and maltotriose are the best substrates for optimising L-asp production. We also found that increasing the flux to EX_asp_L_e leads to less L-asp production, due to the negative effect this exerts on biomass. Changing the bounds of the ASPTA reaction did not lead to any significant changes in L-asp production. Finally, we found that the best strategy for optimising L-asp production is ??? to change the substrate . This strategy increases the theoretical yield of L-asp production by ??? mol/mol. 
 
-What have we achieved?
-
-What is our conclusion? We have found that the best strategy for optimising L-aspartate production is ????. This strategy increases the theoretical yield of L-aspartate production by ????.
 
 ## Project overview
 The report for this project is presented in the file [Report.ipynb](https://github.com/27410/group-assingment-group-14/blob/main/Report.ipynb) The code used to complete it can be found on github and appears in the following order:
@@ -39,7 +36,7 @@ The report for this project is presented in the file [Report.ipynb](https://gith
 
 [10. PPA maltose](https://github.com/27410/group-assingment-group-14/blob/main/10_PPPA_maltose.ipynb)
 
-[11. PPA maltotrexaose](https://github.com/27410/group-assingment-group-14/blob/main/11_PPPA_maltotrexaose.ipynb)
+[11. PPA maltohexaose](https://github.com/27410/group-assingment-group-14/blob/main/11_PPPA_maltotrexaose.ipynb)
 
 [12. PPA maltotriose](https://github.com/27410/group-assingment-group-14/blob/main/12_PPPA_maltotriose.ipynb)
 
