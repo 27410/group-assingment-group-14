@@ -15,6 +15,8 @@
 ## Project summary (<300 words)
 Describe the overall aim of your project and what you have achieved.
 
+The aim of this project was to explore the optimisation of L-aspartate production in _E. coli_ using computational methods. To achieve this we first assessed the quality of different GSM models using memote, and then using the model to explore different strategies for optimising L-aspartate production. We have explored the effect of gene knockouts, overexpression of AspC, insertion of a more active AspC, PPPA and cofactor swapping. We have found that the best strategy for optimising L-aspartate production is to insert a more active AspC. This strategy increases the theoretical yield of L-aspartate production by 1.5 times.
+
 ## Project overview
 The report for this project is presented in the file [Report.ipynb](https://github.com/27410/group-assingment-group-14/blob/main/Report.ipynb) The code used to complete ti can be found on github and appears in the following order:
 
