@@ -15,7 +15,7 @@ What have we achieved?
 What is our conclusion? We have found that the best strategy for optimising L-aspartate production is ????. This strategy increases the theoretical yield of L-aspartate production by ????.
 
 ## Project overview
-The report for this project is presented in the file [Report.ipynb](https://github.com/27410/group-assingment-group-14/blob/main/Report.ipynb) The code used to complete ti can be found on github and appears in the following order:
+The report for this project is presented in the file [Report.ipynb](https://github.com/27410/group-assingment-group-14/blob/main/Report.ipynb) The code used to complete it can be found on github and appears in the following order:
 
 [0. Memote](https://github.com/27410/group-assingment-group-14/blob/main/0.%20Memote.ipynb)
 
